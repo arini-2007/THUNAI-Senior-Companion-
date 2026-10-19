@@ -1,0 +1,51 @@
+{
+  "name": "THUNAI — AI Health Companion",
+  "short_name": "THUNAI",
+  "description": "Simple, senior-friendly, voice-first AI health companion for India",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "display_override": ["standalone", "window-controls-overlay", "minimal-ui"],
+  "orientation": "portrait",
+  "background_color": "#faf8ff",
+  "theme_color": "#0d7a72",
+  "lang": "en-IN",
+  "categories": ["medical", "health", "lifestyle"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Emergency SOS (112)",
+      "short_name": "SOS",
+      "description": "Immediate 1-tap emergency assistance",
+      "url": "./#sos",
+      "icons": [{ "src": "icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Medicine Scanner",
+      "short_name": "Scanner",
+      "description": "Scan medicine packages with camera",
+      "url": "./#scanner",
+      "icons": [{ "src": "icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Daily Reminders",
+      "short_name": "Reminders",
+      "description": "Check your daily medicine routine",
+      "url": "./#reminders",
+      "icons": [{ "src": "icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}
