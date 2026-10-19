@@ -20,9 +20,24 @@ THUNAI is a voice-first AI companion for older adults, with Tamil, English and T
 
 ## Screenshots
 
-| Home and voice assistant | Upcoming reminders | Add reminder |
-|---|---|---|
-| <img src="screenshots/home-voice-assistant.jpg" width="250" alt="THUNAI home screen with Tap to Speak and a chat reply"> | <img src="screenshots/reminders.jpg" width="250" alt="THUNAI upcoming reminders list with Edit and Delete"> | <img src="screenshots/add-reminder.jpg" width="250" alt="THUNAI Add Reminder form"> |
+### Home and voice assistant
+
+
+![THUNAI home screen](screenshots/home-voice-assistant.jpg)
+
+
+
+### Upcoming reminders
+
+
+![THUNAI reminders](screenshots/reminders.jpg)
+
+
+
+### Add reminder
+
+
+![THUNAI add reminder form](screenshots/add-reminder.jpg)
 
 ## Demo
 - Live application: ADD LINK
