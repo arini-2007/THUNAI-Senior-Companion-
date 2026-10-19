@@ -97,11 +97,11 @@ Set the `GEMINI_API_KEY` environment variable before starting the server, or pas
 | Team Member | Role |
 |---|---|
 | Abinaya A.K. | Frontend & Backend Development |
-| Anthony Anushka | Frontend & Backend Development |
-| Anthony Clarus Nivitha P. | Documentation & Presentation |
-| Arni | GitHub & Version Control |
-| Aishwarya | Research & Content Development |
-| Divya Bharathi | Presentation Design & Visual Communication |
+| Anthony Anushka.V | Frontend & Backend Development |
+|  Antony Clarus Nivytha . P | Documentation & Presentation |
+| Arini.K| GitHub & Version Control |
+| Aishwarya.B | Research & Content Development |
+| M.Divya bharathi | Presentation Design & Visual Communication |
 
 ## License
 No license selected yet. Agree on one as a team before adding a `LICENSE` file.
