@@ -1,0 +1,6 @@
+.env
+thunai_data.json
+__pycache__/
+build/
+dist/
+*.spec
