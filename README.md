@@ -18,26 +18,35 @@ THUNAI is a voice-first AI companion for older adults, with Tamil, English and T
 | [Demo script](docs/DEMO_SCRIPT.md) | Short presentation script |
 | [Publish checklist](docs/INTEGRATION.md) | Steps before making the repository public |
 
-## Screenshots
+# THUNAI – Your Caring AI Companion
 
-### Home and voice assistant
+### An AI-Powered Elderly Care Assistant
+
+THUNAI is a voice-first AI companion designed to support elderly individuals through accessible technology, personalised assistance, and caregiver connectivity.
+
+---
+
+## 📱 Application Screenshots
+
+Explore THUNAI's user-friendly interface, including AI-powered conversations, appointment reminders, and reminder scheduling.
+
+<p align="center">
+  <img src="screenshots.jpg" alt="THUNAI Application Screenshots" width="100%">
+</p>
+
+### Features Demonstrated
+- Voice-based AI interaction
+- Elder-friendly user interface
+- Personalised conversations
+- Appointment and medication reminders
+- Reminder creation and management
+- Caregiver assistance
+
+---
+
+### THUNAI – Technology with Care ❤️
 
 
-![THUNAI home screen](screenshots/home-voice-assistant.jpg)
-
-
-
-### Upcoming reminders
-
-
-![THUNAI reminders](screenshots/reminders.jpg)
-
-
-
-### Add reminder
-
-
-![THUNAI add reminder form](screenshots/add-reminder.jpg)
 
 ## Demo
 - Live application: ADD LINK
