@@ -49,7 +49,7 @@ Explore THUNAI's user-friendly interface, including AI-powered conversations, ap
 
 
 ## Demo
-- Live application: ADD LINK
+- Live application: https://drive.google.com/file/d/1ojWFUi7w9lIoCppUvznsZZ-5VBfxAfiZ/view?usp=drivesdk
 
 ## Technology stack
 - **Backend:** Python (built-in `http.server`)
