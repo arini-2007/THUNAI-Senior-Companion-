@@ -105,15 +105,22 @@ Note: The live prototype requires the host computer to remain active and connect
 
 Keep all of these files in the same folder, because the server loads the frontend files from its own folder.
 
-## Run locally
-Requires Python 3.10 or newer.
+💻 Run Locally
 
-```bash
-pip install -r requirements.txt
-python server.py
-```
+To run THUNAI on your computer:
 
-Open http://localhost:8080 (the server uses port 8085 if 8080 is busy). To open a desktop-style window instead, run `python thunai_app.py`.
+1. Clone or download this GitHub repository.
+2. Extract the project files.
+3. Install the required Python dependencies using "requirements.txt" (if provided).
+4. Configure the required API key in your local environment.
+5. Start the Python backend server.
+6. Open "http://localhost:8080" in your browser.
+
+Public Access
+
+For the Windows prototype setup, run "start_public_thunai.bat" to start the local server and create a temporary public Cloudflare Tunnel.
+
+Note: The host computer must remain powered on and connected to the internet for public access.
 
 ### Optional: enable Gemini
 Set the `GEMINI_API_KEY` environment variable before starting the server, or paste a key in the app under **Settings**.
