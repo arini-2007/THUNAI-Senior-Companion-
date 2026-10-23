@@ -45,6 +45,25 @@ Explore THUNAI's user-friendly interface, including AI-powered conversations, ap
 ---
 
 ### THUNAI – Technology with Care ❤️
+🌐 Live Prototype
+
+Experience THUNAI – Your AI Senior Companion
+
+🔗 "Launch THUNAI Prototype" (https://tom-animation-apt-rat.trycloudflare.com)
+
+THUNAI is a voice-first AI companion designed to make technology accessible to elderly users through natural conversations in Tamil, English and Tanglish.
+
+Prototype Features
+
+- Multilingual voice interaction
+- Medicine reminders
+- AI-powered companionship
+- Relaxation music
+- Timer and emergency SOS interface
+
+Deployment Status: Locally hosted Python backend, accessible through a temporary Cloudflare Tunnel.
+
+Note: The live prototype requires the host computer to remain active and connected to the internet. A pre-recorded demonstration is also provided for uninterrupted evaluation.
 
 
 
